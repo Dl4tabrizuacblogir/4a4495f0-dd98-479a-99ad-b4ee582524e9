@@ -1,4 +1,4 @@
-vless://b8d4e015-2a6c-4f2c-8642-7650bcebb089@213.176.127.36:31588?encryption=none&security=none&type=ws&host=telewebion.com&path=%2Funitedstatesofamericabpb#BPB-Server3
+vless://97fc0f62-0a20-4942-8648-7d2f76a0b6af@213.176.127.36:46724?encryption=none&security=reality&sni=serverpars.com&fp=random&pbk=1LaKWQNVduhMmYkmjhLgUzOIPJHcXMqu_vYdXi3Z4z8&sid=db&spx=%2F&type=tcp&headerType=http&host=telewebion.com#BPB-Server1
 vless://45a67b3b-d1c8-4f3f-b83a-c247c62c0f68@213.176.127.36:34615?encryption=none&security=none&type=httpupgrade&host=telewebion.com&path=%2Fsingapourbpb#BPB-Server2
-vless://070f7af7-e3a8-4ab6-8caf-1cfad53e117c@213.176.127.36:38147?encryption=none&security=reality&sni=serverpars.com&fp=chrome&pbk=BGPM5ja7WDPaMOd7o1QfWn7t4MS514r_i99ZSpzjWgA&sid=a1&spx=%2F&type=tcp&headerType=http&host=telewebion.com#BPB-Server1
+vless://b8d4e015-2a6c-4f2c-8642-7650bcebb089@213.176.127.36:31588?encryption=none&security=none&type=ws&host=telewebion.com&path=%2Funitedstatesofamericabpb#BPB-Server3
 vless://e79884b6-e60f-4c55-b9d7-9adc70bc6065@213.176.127.36:42823?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#BPB-AIO
